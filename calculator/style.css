@@ -1,0 +1,28 @@
+.main{
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+.main-1{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    width: 250px;
+    height: 230px;
+}
+.inp{
+    width: 235px;
+    padding: 5px;
+}
+.btn-clr{
+    width: 100%;
+    padding: 10px;
+}
+.btn{
+    padding: 10px;
+    width: 59px;
+}
